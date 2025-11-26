@@ -1,4 +1,4 @@
-# ***rhodes_console***
+<img width="1410" height="1019" alt="image" src="https://github.com/user-attachments/assets/e69a5bb9-ab70-4239-859c-ae342c4fa5e5" /># ***rhodes_console***
 
 An arknights-themed new tab page for Chromium-based browsers. 
 
@@ -24,6 +24,9 @@ Google Gemini at the top right hand corner (the little white rhombus).
 - Try prompting the AI at the top right corner. If you don't have an API, it will prompt you. Copy and paste the API, and it should work.
 
 Current Weather/Temperature.
+
+<img width="1410" height="1019" alt="image" src="https://github.com/user-attachments/assets/6ecd5bf9-fe01-449c-818d-d70ae289d069" />
+
 
 ———
 
