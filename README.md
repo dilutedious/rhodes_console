@@ -1,5 +1,4 @@
-<img width="1410" height="1019" alt="image" src="https://github.com/user-attachments/assets/e69a5bb9-ab70-4239-859c-ae342c4fa5e5" /># ***rhodes_console***
-
+# ***rhodes_console***
 An arknights-themed new tab page for Chromium-based browsers. 
 
 A few years back, I found an arknights new tab page on github that displayed news and banners from the official website, and it was really good. Unfortunately, it disappeared off github, and the extension that I downloaded stopped pulling data. Because very few arknights new tab pages exist, I tried to fix it up...
