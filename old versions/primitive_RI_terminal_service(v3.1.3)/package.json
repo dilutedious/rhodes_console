@@ -1,0 +1,12 @@
+{
+  "name": "rhodes-console",
+  "version": "1.0.0",
+  "description": "Rhodes Console with mock API data",
+  "main": "mock-server.js",
+  "scripts": {
+    "start": "node mock-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
